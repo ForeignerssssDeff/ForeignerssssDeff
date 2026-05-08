@@ -3,10 +3,6 @@
 ### 🛡️ Pentester | Bug Hunter | IoT Enthusiast | Cybersecurity Researcher
 *Focused on Web Exploitation, Network Defense, and IoT Security.*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ForeignerssssDeff/ForeignerssssDeff/main/image_e41710.jpg" width="400" />
-</p>
-
 ---
 
 ### 🚀 Digital Mission Control
@@ -22,6 +18,7 @@
 #### Programming & System Architecture:
 <br>
 <p align="left">
+  <!-- Bahasa Sebelumnya & Baru -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-ED8A00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -33,6 +30,7 @@
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <br>
+  <!-- Penambahan SQL, XML, ASP, Bash -->
   <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" />
   <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
