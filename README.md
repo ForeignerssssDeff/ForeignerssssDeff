@@ -4,7 +4,7 @@
 *Focused on Web Exploitation, Network Defense, and IoT Security.*
 
 <p align="center">
-  <img src="IMPHNEN.jpeg" width="450" />
+  <img src="IMPHNEN-removebg-preview.png" width="450" />
 </p>
 
 ---
